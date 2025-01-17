@@ -2,11 +2,12 @@
 layout: schedule
 title: "Schedule"
 ---
-> date - Name  
-> 'title' - abstract about ensfknslkfsldfks
+ 
+> Date, name, title  
+> abstract
 
-> date - Name  
-> 'title' - abstract about ensfknslkfsldfks
+> Date, name, title  
+> abstract
 
-> date - Name  
-> 'title' - abstract about ensfknslkfsldfks
+> Date, name, title  
+> abstract
