@@ -4,4 +4,4 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 contacts:
-- {name: D.A.N.C.E. seminar}#, #image: 'assets/img/photo.gif'}
+- {name: D.A.N.C.E. seminar}, image: 'assets/img/photo.gif'}
