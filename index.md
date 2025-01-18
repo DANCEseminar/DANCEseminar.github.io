@@ -8,6 +8,6 @@ interested in triangulated categories arising in (non)commutative algebraic geom
 
 The seminar is a biweekly event with ~50 minute talks and ~10 minutes for questions, see the schedule [here](https://danceseminar.github.io/schedule).
 
-Unless otherwise specified, we run the seminar on DATE/TIME through MEDIUM.
+Unless otherwise specified, we run the seminar on Mondays at 4 pm CET through Zoom.
 
-Please fill out a registeration form HERE to attend the seminar.
+To receive talk announcements, please send us an [email](danceseminar.maths@gmail.com) to sign up to the mailing list. Moreover, if you are interested in giving a talk feel free to reach out too.
