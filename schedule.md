@@ -4,7 +4,7 @@ title: "Schedule"
 ---
 **Speaker:** [person](http://homepage.com/ "http://homepage.com/")  
 **Date:** mm/dd/yyyy, time in whichever time zone  
-*Title:*  
+**Title:** *a title about stuff*  
 <details>
  <summary>Abstract </summary>
   the text
@@ -13,7 +13,7 @@ title: "Schedule"
 ---
 **Speaker:** [person](http://homepage.com/ "http://homepage.com/")  
 **Date:** mm/dd/yyyy, time in whichever time zone  
-*Title:*  
+**Title:** *a title about stuff*  
 <details>
  <summary>Abstract </summary>
   the text
@@ -22,7 +22,7 @@ title: "Schedule"
 ---
 **Speaker:** [person](http://homepage.com/ "http://homepage.com/")  
 **Date:** mm/dd/yyyy, time in whichever time zone  
-*Title:*  
+**Title:** *a title about stuff*  
 <details>
  <summary>Abstract </summary>
   the text
