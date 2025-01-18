@@ -5,21 +5,15 @@ title: "Schedule"
 
 <details>
  <summary>Date, name, title </summary>
-  ```
-   abstract and such
-  ```
+  abstract
 </details>
 
 <details>
  <summary>Date, name, title </summary>
-  ```
-   abstract and such
-  ```
+  abstract
 </details>
 
 <details>
  <summary>Date, name, title </summary>
-  ```
-   abstract and such
-  ```
+  abstract`
 </details>
