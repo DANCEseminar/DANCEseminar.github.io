@@ -10,4 +10,4 @@ The seminar is a biweekly event with ~50 minute talks and ~10 minutes for questi
 
 Unless otherwise specified, we run the seminar on Mondays at 4 pm CET through Zoom.
 
-To receive talk announcements, please send us an [email](danceseminar.maths@gmail.com) to sign up to the mailing list. Moreover, if you are interested in giving a talk feel free to reach out too.
+To receive talk announcements, please [contact](https://danceseminar.github.io/contact) us to sign up to the mailing list. Moreover, if you are interested in giving a talk feel free to reach out too.
