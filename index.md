@@ -2,7 +2,7 @@
 layout: home
 title: "About"
 ---
-This is the website for the D.A.N.C.E. (Derived And NonCommutative Enthousiasts) seminar.
+This is the website for the D.A.N.C.E. (Derived And NonCommutative Enthusiasts) seminar.
 It is an online seminar aimed at young researchers, e.g. graduate students and postdoctoral researchers, 
 interested in triangulated categories arising in (non)commutative algebraic geometry (quite roughly interpreted).
 
