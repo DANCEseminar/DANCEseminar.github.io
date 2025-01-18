@@ -2,12 +2,29 @@
 layout: schedule
 title: "Schedule"
 ---
- 
-> Date, name, title  
-> abstract
+**Speaker:** [person](http://homepage.com/ "http://homepage.com/")  
+**Date:** mm/dd/yyyy, time in whichever time zone  
+**Title:** *a title about stuff*  
+<details>
+ <summary>Abstract </summary>
+  the text
+</details>
 
-> Date, name, title  
-> abstract
+---
+**Speaker:** [person](http://homepage.com/ "http://homepage.com/")  
+**Date:** mm/dd/yyyy, time in whichever time zone  
+**Title:** *a title about stuff*  
+<details>
+ <summary>Abstract </summary>
+  the text
+</details>
 
-> Date, name, title  
-> abstract
+---
+**Speaker:** [person](http://homepage.com/ "http://homepage.com/")  
+**Date:** mm/dd/yyyy, time in whichever time zone  
+**Title:** *a title about stuff*  
+<details>
+ <summary>Abstract </summary>
+  the text
+</details>
+
