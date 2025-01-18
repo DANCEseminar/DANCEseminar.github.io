@@ -2,12 +2,24 @@
 layout: schedule
 title: "Schedule"
 ---
- 
-> Date, name, title  
-> abstract
 
-> Date, name, title  
-> abstract
+<details>
+ <summary>Date, name, title </summary>
+  ```
+   abstract and such
+  ```
+</details>
 
-> Date, name, title  
-> abstract
+<details>
+ <summary>Date, name, title </summary>
+  ```
+   abstract and such
+  ```
+</details>
+
+<details>
+ <summary>Date, name, title </summary>
+  ```
+   abstract and such
+  ```
+</details>
