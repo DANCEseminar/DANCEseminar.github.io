@@ -2,7 +2,9 @@
 layout: contact
 title: "Contact"
 ---
-Seminar email: danceseminar 'dot' maths 'at' gmail 'dot' com
+<p style="line-height: 2;">
+  Seminar email: danceseminar 'dot' maths 'at' gmail 'dot' com
+</p>
 
 Organizers:
 - [Anirban Bhaduri](https://anirbanbhaduri.com/),
