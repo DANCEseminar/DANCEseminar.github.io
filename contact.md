@@ -2,6 +2,9 @@
 layout: contact
 title: "Contact"
 ---
+Seminar email: danceseminar 'dot' maths 'at' gmail 'dot' com
+
+Organizers:
 - [Anirban Bhaduri](https://anirbanbhaduri.com/),
   email: anirbanbhaduri1905 'at' gmail 'dot' com
 - [Timothy De Deyn](https://tdedeyn.github.io/),
