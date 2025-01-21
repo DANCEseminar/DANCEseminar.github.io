@@ -36,7 +36,7 @@ title: "Schedule"
 <details>
  <summary>Abstract </summary>
   TBA
-</details>
+</details>  
 
-
-... more to come
+---
+... more to come  
