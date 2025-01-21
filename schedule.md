@@ -31,7 +31,7 @@ title: "Schedule"
 
 ---
 **Speaker:** [Sridhar Venkatesh](https://sites.google.com/view/sridhar-venkatesh)  
-**Date:** 31, Match, 2025, 10am ET 
+**Date:** 31, March, 2025, 10am ET 
 **Title:** *TBA*  
 <details>
  <summary>Abstract </summary>
