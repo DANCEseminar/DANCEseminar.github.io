@@ -3,7 +3,7 @@ layout: schedule
 title: "Schedule"
 ---
 **Speaker:** [Andrew Hanlon](https://sites.google.com/view/ahanlon-math/home)    
-**Date:** 02/10/2025, 10 am ET   
+**Date:** 10, February, 2025, 10 am ET   
 **Title:** *Birational King's conjecture*    
 <details>
  <summary>Abstract </summary>
@@ -13,7 +13,7 @@ title: "Schedule"
 
 ---
 **Speaker:** [Hannah Dell](https://www.hannahdell.com/lander)  
-**Date:** 03/03/2025, 4pm CET 
+**Date:** 03, March, 2025, 4pm CET 
 **Title:** *TBA*  
 <details>
  <summary>Abstract </summary>
@@ -22,7 +22,7 @@ title: "Schedule"
 
 ---
 **Speaker:** [Thilo Baumann](https://tbpi.github.io/)  
-**Date:** 03/17/2025, 4pm CET 
+**Date:** 17, March, 2025, 4pm CET 
 **Title:** *TBA*  
 <details>
  <summary>Abstract </summary>
@@ -31,7 +31,7 @@ title: "Schedule"
 
 ---
 **Speaker:** [Sridhar Venkatesh](https://sites.google.com/view/sridhar-venkatesh)  
-**Date:** 03/31/2025, 10am ET 
+**Date:** 31, Match, 2025, 10am ET 
 **Title:** *TBA*  
 <details>
  <summary>Abstract </summary>
