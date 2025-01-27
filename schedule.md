@@ -12,36 +12,36 @@ title: "Schedule"
 </details>
 
 ---
-**Speaker:** [Matt Booth](http://mattbooth.info/)
-**Date:** 17 February 2025, 4pm CET 
-**Title:** *TBA*  
+**Speaker:** [Matt Booth](http://mattbooth.info/)    
+**Date:** 17 February 2025, 4pm CET    
+**Title:** *TBA*    
 <details>
  <summary>Abstract </summary>
   TBA
 </details>
 
 ---
-**Speaker:** [Hannah Dell](https://www.hannahdell.com/lander)  
-**Date:** 3 March 2025, 4pm CET 
-**Title:** *TBA*  
+**Speaker:** [Hannah Dell](https://www.hannahdell.com/lander)   
+**Date:** 3 March 2025, 4pm CET   
+**Title:** *TBA*    
 <details>
  <summary>Abstract </summary>
   TBA
 </details>
 
 ---
-**Speaker:** [Thilo Baumann](https://tbpi.github.io/)  
-**Date:** 17 March 2025, 4pm CET 
-**Title:** *TBA*  
+**Speaker:** [Thilo Baumann](https://tbpi.github.io/)    
+**Date:** 17 March 2025, 4pm CET    
+**Title:** *TBA*    
 <details>
  <summary>Abstract </summary>
   TBA
 </details>
 
 ---
-**Speaker:** [Sridhar Venkatesh](https://sites.google.com/view/sridhar-venkatesh)  
-**Date:** 31 March 2025, 4pm CET
-**Title:** *TBA*  
+**Speaker:** [Sridhar Venkatesh](https://sites.google.com/view/sridhar-venkatesh)     
+**Date:** 31 March 2025, 4pm CET    
+**Title:** *TBA*      
 <details>
  <summary>Abstract </summary>
   TBA
