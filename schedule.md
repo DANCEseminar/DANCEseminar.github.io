@@ -93,7 +93,7 @@ title: "Schedule"
 </details>  
 
 ---
-**Speaker:** [Alekos Robotis]([https://sites.google.com/view/uttaran-dutta/home](https://aarobotis.github.io/))     
+**Speaker:** [Alekos Robotis](https://aarobotis.github.io/)    
 **Date:** 23 June 2025, 4pm CET    
 **Title:** *TBA*      
 <details>
