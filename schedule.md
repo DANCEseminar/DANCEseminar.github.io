@@ -14,10 +14,10 @@ title: "Schedule"
 ---
 **Speaker:** [Matt Booth](http://mattbooth.info/)    
 **Date:** 17 February 2025, 4pm CET    
-**Title:** *TBA*    
+**Title:** *Nonsmooth Calabi—Yau structures for algebras and coalgebras*    
 <details>
  <summary>Abstract </summary>
-  TBA
+  I'll talk about a generalised notion of Calabi-Yau structure for dg (co)algebras, before giving a brief review of algebra-coalgebra Koszul duality, and explaining why this `nonsmooth Calabi—Yau' condition is dual to a symmetric Frobenius condition. There is also an analogous one-sided version: Gorenstein (co)algebras are Koszul dual to Frobenius (co)algebras. This leads to a surprising example: the ring k[[x]] of formal power series, equipped with its natural topology, is a pseudocompact Frobenius algebra. As an application of the above theory, we obtain a new characterisation of Poincaré duality spaces, which for simply connected spaces recovers Félix-Halperin-Thomas's notion of Gorenstein space. This talk is based on forthcoming work joint with Joe Chuang and Andrey Lazarev.
 </details>
 
 ---
