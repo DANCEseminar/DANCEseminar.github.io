@@ -48,5 +48,57 @@ title: "Schedule"
 </details>  
 
 ---
+**Speaker:** [Alicia Lamarche](https://alicialamarche.com/about)     
+**Date:** 14 April 2025, 4pm CET    
+**Title:** *TBA*      
+<details>
+ <summary>Abstract </summary>
+  TBA
+</details>  
 
-... more to come  
+---
+**Speaker:** [Isambard Goodbody](https://sites.google.com/view/isambard)     
+**Date:** 28 April 2025, 4pm CET    
+**Title:** *TBA*      
+<details>
+ <summary>Abstract </summary>
+  TBA
+</details>  
+
+---
+**Speaker:** [Dylan Spence](https://dkspence952.github.io/)     
+**Date:** 12 May 2025, 4pm CET    
+**Title:** *TBA*      
+<details>
+ <summary>Abstract </summary>
+  TBA
+</details>  
+
+---
+**Speaker:** [Marina Godinho](https://marinapbgodinho.github.io/)     
+**Date:** 26 May 2025, 4pm CET    
+**Title:** *TBA*      
+<details>
+ <summary>Abstract </summary>
+  TBA
+</details>  
+
+---
+**Speaker:** [Uttaran Dutta](https://sites.google.com/view/uttaran-dutta/home)     
+**Date:** 9 June 2025, 4pm CET    
+**Title:** *TBA*      
+<details>
+ <summary>Abstract </summary>
+  TBA
+</details>  
+
+---
+**Speaker:** [Alekos Robotis](https://aarobotis.github.io/)    
+**Date:** 23 June 2025, 4pm CET    
+**Title:** *TBA*      
+<details>
+ <summary>Abstract </summary>
+  TBA
+</details>  
+
+---
