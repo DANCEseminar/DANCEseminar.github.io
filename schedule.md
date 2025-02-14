@@ -4,7 +4,8 @@ title: "Schedule"
 ---
 **Speaker:** [Andrew Hanlon](https://sites.google.com/view/ahanlon-math/home)    
 **Date:** 10 February 2025, 4pm CET   
-**Title:** *Birational King's conjecture*    
+**Title:** *Birational King's conjecture*   
+[slides](./slides/Hanlon.pdf/) | [video](https://www.youtube.com/watch?v=4WJopl9asBo) 
 <details>
  <summary>Abstract </summary>
   King's conjecture proposed that there is a full strong exceptional collection of line bundles on any smooth projective toric variety. Although the conjecture turned out to be false, it continues to motivate research on the derived categories of toric varieties. I will explain that King's conjecture in fact holds for a natural category glued from the derived categories of birational toric varieties. The talk is based on joint work with Ballard, Berkesch, Brown, Cranton Heller, Erman, Favero, Ganatra, and Huang.
