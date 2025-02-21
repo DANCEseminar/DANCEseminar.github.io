@@ -16,6 +16,7 @@ title: "Schedule"
 **Speaker:** [Matt Booth](http://mattbooth.info/)    
 **Date:** 17 February 2025, 4pm CET    
 **Title:** *Nonsmooth Calabi—Yau structures for algebras and coalgebras*    
+[slides](./slides/Booth.pdf/) | [video](https://www.youtube.com/watch?v=lw_lvSxejUQ)
 <details>
  <summary>Abstract </summary>
   I'll talk about a generalised notion of Calabi-Yau structure for dg (co)algebras, before giving a brief review of algebra-coalgebra Koszul duality, and explaining why this `nonsmooth Calabi—Yau' condition is dual to a symmetric Frobenius condition. There is also an analogous one-sided version: Gorenstein (co)algebras are Koszul dual to Frobenius (co)algebras. This leads to a surprising example: the ring k[[x]] of formal power series, equipped with its natural topology, is a pseudocompact Frobenius algebra. As an application of the above theory, we obtain a new characterisation of Poincaré duality spaces, which for simply connected spaces recovers Félix-Halperin-Thomas's notion of Gorenstein space. This talk is based on forthcoming work joint with Joe Chuang and Andrey Lazarev.
@@ -24,10 +25,10 @@ title: "Schedule"
 ---
 **Speaker:** [Hannah Dell](https://www.hannahdell.com/lander)   
 **Date:** 3 March 2025, 4pm CET   
-**Title:** *TBA*    
+**Title:** *Categorical Torelli for cyclic covers*    
 <details>
  <summary>Abstract </summary>
-  TBA
+  Since any Fano variety can be recovered from its derived category up to isomorphism, we ask whether less information determines the variety - this is called a categorical Torelli question. In this talk, we consider an n-fold cover X → Y ramified in a divisor Z. The cyclic group of order n acts on X. We study how a certain subcategory of Db(X) (the Kuznetsov component) behaves under this group action. We combine this with techniques from topological K-theory and Hodge theory to prove that this subcategory determines X for two new classes of Fano threefolds which arise as double covers of (weighted) projective spaces. This is joint work with Augustinas Jacovskis and Franco Rota (arXiv:2310.13651).
 </details>
 
 ---
