@@ -26,6 +26,7 @@ title: "Schedule"
 **Speaker:** [Hannah Dell](https://www.hannahdell.com/lander)   
 **Date:** 3 March 2025, 4pm CET   
 **Title:** *Categorical Torelli for cyclic covers*    
+[slides](./slides/Dell.pdf/) | [video](https://youtu.be/piu32QsWn4w)
 <details>
  <summary>Abstract </summary>
   Since any Fano variety can be recovered from its derived category up to isomorphism, we ask whether less information determines the variety - this is called a categorical Torelli question. In this talk, we consider an n-fold cover X → Y ramified in a divisor Z. The cyclic group of order n acts on X. We study how a certain subcategory of Db(X) (the Kuznetsov component) behaves under this group action. We combine this with techniques from topological K-theory and Hodge theory to prove that this subcategory determines X for two new classes of Fano threefolds which arise as double covers of (weighted) projective spaces. This is joint work with Augustinas Jacovskis and Franco Rota (arXiv:2310.13651).
@@ -34,10 +35,11 @@ title: "Schedule"
 ---
 **Speaker:** [Thilo Baumann](https://tbpi.github.io/)    
 **Date:** 17 March 2025, 4pm CET    
-**Title:** *TBA*    
+**Title:** *Noncommutative plane curves*    
 <details>
  <summary>Abstract </summary>
-  TBA
+  A noncommutative plane curve is defined by a central homogeneous element in a 3-dimensional Artin—Schelter regular algebra. If the algebra is finite over its center, we show how a noncommutative plane curve can be understood as the restriction of an order on the projective plane along a (commutative) curve. This observation provides a general method for studying noncommutative plane curves of arbitrary degree. As an application, we explain how our approach connects to the existing results in degrees two and three. Furthermore, it extends the dictionary between orders and stacks in dimension one.
+  This is joint work with Pieter Belmans and Okke van Garderen.
 </details>
 
 ---
