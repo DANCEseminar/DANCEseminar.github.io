@@ -35,7 +35,8 @@ title: "Schedule"
 ---
 **Speaker:** [Thilo Baumann](https://tbpi.github.io/)    
 **Date:** 17 March 2025, 4pm CET    
-**Title:** *Noncommutative plane curves*    
+**Title:** *Noncommutative plane curves*
+[slides](./slides/Baumann.pdf/) | [video](https://youtu.be/jyU8O9rIlSg)
 <details>
  <summary>Abstract </summary>
   A noncommutative plane curve is defined by a central homogeneous element in a 3-dimensional Artin—Schelter regular algebra. If the algebra is finite over its center, we show how a noncommutative plane curve can be understood as the restriction of an order on the projective plane along a (commutative) curve. This observation provides a general method for studying noncommutative plane curves of arbitrary degree. As an application, we explain how our approach connects to the existing results in degrees two and three. Furthermore, it extends the dictionary between orders and stacks in dimension one.
@@ -45,11 +46,12 @@ title: "Schedule"
 ---
 **Speaker:** [Sridhar Venkatesh](https://sites.google.com/view/sridhar-venkatesh)     
 **Date:** 31 March 2025, 4pm CET    
-**Title:** *TBA*      
+**Title:** *Derived characterizations of singularities*      
 <details>
  <summary>Abstract </summary>
-  TBA
+  We characterize well known classes of singularities of complex projective varieties in terms of statements about generation in the derived category of coherent sheaves. This includes classical cohomological singularities such as rational singularities, Du Bois singularities, and rational pairs (both in the sense of Schwede-Takagi and Kollár-Kovács). This is based on joint work with Pat Lank and joint work with Pat Lank and Peter McDonald.
 </details>  
+
 
 ---
 **Speaker:** [Alicia Lamarche](https://alicialamarche.com/about)     
