@@ -35,7 +35,7 @@ title: "Schedule"
 ---
 **Speaker:** [Thilo Baumann](https://tbpi.github.io/)    
 **Date:** 17 March 2025, 4pm CET    
-**Title:** *Noncommutative plane curves* 
+**Title:** *Noncommutative plane curves*    
 [slides](./slides/Baumann.pdf/) | [video](https://youtu.be/jyU8O9rIlSg)
 <details>
  <summary>Abstract </summary>
