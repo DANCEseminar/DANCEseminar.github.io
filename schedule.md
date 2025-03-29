@@ -45,7 +45,7 @@ title: "Schedule"
 
 ---
 **Speaker:** [Sridhar Venkatesh](https://sites.google.com/view/sridhar-venkatesh)     
-**Date:** 31 March 2025, 4pm CET    
+**Date:** 31 March 2025, 4pm CEST    
 **Title:** *Derived characterizations of singularities*      
 <details>
  <summary>Abstract </summary>
@@ -55,7 +55,7 @@ title: "Schedule"
 
 ---
 **Speaker:** [Alicia Lamarche](https://alicialamarche.com/about)     
-**Date:** 14 April 2025, 4pm CET    
+**Date:** 14 April 2025, 4pm CEST    
 **Title:** *TBA*      
 <details>
  <summary>Abstract </summary>
@@ -64,7 +64,7 @@ title: "Schedule"
 
 ---
 **Speaker:** [Isambard Goodbody](https://sites.google.com/view/isambard)     
-**Date:** 28 April 2025, 4pm CET    
+**Date:** 28 April 2025, 4pm CEST    
 **Title:** *TBA*      
 <details>
  <summary>Abstract </summary>
@@ -73,7 +73,7 @@ title: "Schedule"
 
 ---
 **Speaker:** [Dylan Spence](https://dkspence952.github.io/)     
-**Date:** 12 May 2025, 4pm CET    
+**Date:** 12 May 2025, 4pm CEST    
 **Title:** *TBA*      
 <details>
  <summary>Abstract </summary>
@@ -82,7 +82,7 @@ title: "Schedule"
 
 ---
 **Speaker:** [Marina Godinho](https://marinapbgodinho.github.io/)     
-**Date:** 26 May 2025, 4pm CET    
+**Date:** 26 May 2025, 4pm CEST    
 **Title:** *TBA*      
 <details>
  <summary>Abstract </summary>
@@ -91,7 +91,7 @@ title: "Schedule"
 
 ---
 **Speaker:** [Uttaran Dutta](https://sites.google.com/view/uttaran-dutta/home)     
-**Date:** 9 June 2025, 4pm CET    
+**Date:** 9 June 2025, 4pm CEST    
 **Title:** *TBA*      
 <details>
  <summary>Abstract </summary>
@@ -100,7 +100,7 @@ title: "Schedule"
 
 ---
 **Speaker:** [Alekos Robotis](https://aarobotis.github.io/)    
-**Date:** 23 June 2025, 4pm CET    
+**Date:** 23 June 2025, 4pm CEST    
 **Title:** *TBA*      
 <details>
  <summary>Abstract </summary>
