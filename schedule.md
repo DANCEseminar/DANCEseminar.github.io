@@ -46,7 +46,8 @@ title: "Schedule"
 ---
 **Speaker:** [Sridhar Venkatesh](https://sites.google.com/view/sridhar-venkatesh)     
 **Date:** 31 March 2025, 4pm CEST    
-**Title:** *Derived characterizations of singularities*      
+**Title:** *Derived characterizations of singularities*     
+[slides](./slides/Venkatesh.pdf/) | [video](vhttps://youtu.be/OC_THFqDPG0)   
 <details>
  <summary>Abstract </summary>
   We characterize well known classes of singularities of complex projective varieties in terms of statements about generation in the derived category of coherent sheaves. This includes classical cohomological singularities such as rational singularities, Du Bois singularities, and rational pairs (both in the sense of Schwede-Takagi and Kollár-Kovács). This is based on joint work with Pat Lank and joint work with Pat Lank and Peter McDonald.
