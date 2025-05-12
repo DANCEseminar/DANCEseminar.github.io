@@ -77,7 +77,8 @@ title: "Schedule"
 ---
 **Speaker:** [Dylan Spence](https://dkspence952.github.io/)     
 **Date:** 12 May 2025, 4pm CEST    
-**Title:** *The derived McKay correspondence for rank 2 reflection groups and semiorthogonal decompositions of equivariant derived categories*      
+**Title:** *The derived McKay correspondence for rank 2 reflection groups and semiorthogonal decompositions of equivariant derived categories*         
+[slides](./slides/Spence.pdf/) | [video](https://youtu.be/u_XhtihiPjk)     
 <details>
  <summary>Abstract </summary>
   I will speak about some recent work of the author and collaborators which extend the two-dimensional derived McKay correspondence to certain reflection groups. Along the way we’ll talk about the history of the McKay correspondence, equivariant derived categories, and future directions.
