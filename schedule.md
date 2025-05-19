@@ -87,10 +87,10 @@ title: "Schedule"
 ---
 **Speaker:** [Marina Godinho](https://marinapbgodinho.github.io/)     
 **Date:** 26 May 2025, 4pm CEST    
-**Title:** *TBA*      
+**Title:** *New derived symmetries for varieties with (relative) tilting bundles*      
 <details>
  <summary>Abstract </summary>
-  TBA
+  A ring morphism p: A ⟶B satisfying certain mild assumptions induces a derived endomorphism of A and a derived endomorphism of B, which are closely related. In fact, the derived endomorphism of A is the twist around the restriction of scalars functor, and the derived endomorphism of B is the corresponding cotwist. I will discuss settings in which these endomorphisms are derived equivalences and use this technology to construct new derived autoequivalences of varieties with (relative) tilting bundles. We will construct some interesting examples of these new autoequivalence for quotient singularities. 
 </details>  
 
 ---
