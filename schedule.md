@@ -94,12 +94,12 @@ title: "Schedule"
 </details>  
 
 ---
-**Speaker:** [Uttaran Dutta](https://sites.google.com/view/uttaran-dutta/home)     
+**Speaker:** [Parth Shimpi](https://pas201.user.srcf.net/)     
 **Date:** 9 June 2025, 4pm CEST    
-**Title:** *TBA*      
+**Title:** *Drifting towards rational curves*      
 <details>
  <summary>Abstract </summary>
-  TBA
+  Rational curves and their neighbourhoods in surfaces and 3-folds provide a playground for rich interplay of algebra and geometry, the first instance of such interaction being Beilinson’s observation that the derived category of a projective line admits infinitely many algebraic t-structures. We can walk between these, one step at a time, using various techniques of tilting, mutation, and application of the Picard group action. Then upon iterating these operations, a `fixed—point theorem’ reveals itself: the geometric category of coherent sheaves is naturally a limit of algebraic hearts. I will describe the convex—geometric and combinatorial tools used to study the result, and how it is used to classify t-structures and spherical objects in the local derived category of a flopping curve in a 3-fold.
 </details>  
 
 ---
