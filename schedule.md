@@ -47,7 +47,7 @@ title: "Schedule"
 **Speaker:** [Sridhar Venkatesh](https://sites.google.com/view/sridhar-venkatesh)     
 **Date:** 31 March 2025, 4pm CEST    
 **Title:** *Derived characterizations of singularities*     
-[slides](./slides/Venkatesh.pdf/) | [video](vhttps://youtu.be/OC_THFqDPG0)   
+[slides](./slides/Venkatesh.pdf/) | [video](https://youtu.be/OC_THFqDPG0)   
 <details>
  <summary>Abstract </summary>
   We characterize well known classes of singularities of complex projective varieties in terms of statements about generation in the derived category of coherent sheaves. This includes classical cohomological singularities such as rational singularities, Du Bois singularities, and rational pairs (both in the sense of Schwede-Takagi and Kollár-Kovács). This is based on joint work with Pat Lank and joint work with Pat Lank and Peter McDonald.
@@ -88,6 +88,8 @@ title: "Schedule"
 **Speaker:** [Marina Godinho](https://marinapbgodinho.github.io/)     
 **Date:** 26 May 2025, 4pm CEST    
 **Title:** *New derived symmetries for varieties with (relative) tilting bundles*      
+<!-- [slides](./slides/Godinho.pdf/) |  -->
+[video](https://youtu.be/RiCfPLzczw4)       
 <details>
  <summary>Abstract </summary>
   A ring morphism p: A ⟶B satisfying certain mild assumptions induces a derived endomorphism of A and a derived endomorphism of B, which are closely related. In fact, the derived endomorphism of A is the twist around the restriction of scalars functor, and the derived endomorphism of B is the corresponding cotwist. I will discuss settings in which these endomorphisms are derived equivalences and use this technology to construct new derived autoequivalences of varieties with (relative) tilting bundles. We will construct some interesting examples of these new autoequivalence for quotient singularities. 
