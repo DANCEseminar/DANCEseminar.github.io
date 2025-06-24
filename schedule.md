@@ -109,6 +109,7 @@ title: "Schedule"
 **Speaker:** [Alekos Robotis](https://aarobotis.github.io/)    
 **Date:** 23 June 2025, 4pm CEST    
 **Title:** *The space of augmented stability conditions*      
+[slides](./slides//Robotis.pdf) |  [video](https://youtu.be/Wlp_MCpl7pA)   
 <details>
  <summary>Abstract </summary>
   I will motivate and give an overview of recent joint work with Daniel Halpern-Leistner which constructs an enlargement of the space of Bridgeland stability conditions of a triangulated category D. The new points parametrise new categorical structures called augmented stability conditions, which combine properties of semiorthogonal decompositions and stability conditions.
