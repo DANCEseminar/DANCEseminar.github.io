@@ -3,7 +3,7 @@ layout: schedule
 title: "Schedule"
 ---
 
-#### Upcomming
+#### Upcoming
 
 **Speaker:** []()    
 **Date:** 3 November 2025, 4pm CET   
