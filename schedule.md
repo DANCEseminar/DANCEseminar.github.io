@@ -2,6 +2,46 @@
 layout: schedule
 title: "Schedule"
 ---
+
+#### Upcomming
+
+**Speaker:** []()    
+**Date:** 3 November 2025, 4pm CET   
+**Title:** **   
+<!-- [slides](./slides/) | [video]()  -->
+<details>
+ <summary>Abstract </summary>
+</details>
+
+---
+**Speaker:** []()    
+**Date:** 17 November 2025, 4pm CET   
+**Title:** **   
+<!-- [slides](./slides/) | [video]()  -->
+<details>
+ <summary>Abstract </summary>
+</details>
+
+---
+**Speaker:** []()    
+**Date:** 1 December 2025, 4pm CET   
+**Title:** **   
+<!-- [slides](./slides/) | [video]()  -->
+<details>
+ <summary>Abstract </summary>
+</details>
+
+---
+**Speaker:** []()    
+**Date:** 15 December 2025, 4pm CET   
+**Title:** **   
+<!-- [slides](./slides/) | [video]()  -->
+<details>
+ <summary>Abstract </summary>
+</details>
+
+#### Previous
+
 **Speaker:** [Andrew Hanlon](https://sites.google.com/view/ahanlon-math/home)    
 **Date:** 10 February 2025, 4pm CET   
 **Title:** *Birational King's conjecture*   
@@ -9,7 +49,6 @@ title: "Schedule"
 <details>
  <summary>Abstract </summary>
   King's conjecture proposed that there is a full strong exceptional collection of line bundles on any smooth projective toric variety. Although the conjecture turned out to be false, it continues to motivate research on the derived categories of toric varieties. I will explain that King's conjecture in fact holds for a natural category glued from the derived categories of birational toric varieties. The talk is based on joint work with Ballard, Berkesch, Brown, Cranton Heller, Erman, Favero, Ganatra, and Huang.
-
 </details>
 
 ---
