@@ -40,6 +40,7 @@ title: "Schedule"
  <summary>Abstract </summary>
 </details>
 
+---
 #### Previous
 
 **Speaker:** [Andrew Hanlon](https://sites.google.com/view/ahanlon-math/home)    
