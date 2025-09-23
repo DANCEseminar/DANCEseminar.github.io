@@ -3,7 +3,7 @@ layout: schedule
 title: "Schedule"
 ---
 
-See [here](https://danceseminar.github.io/pastschedule) for  previous talks.
+The following is our current schedule, but see [here](https://danceseminar.github.io/pastschedule) for previous talks.
 
 **Speaker:** []()      
 **Date:** 3 November 2025, 4pm CET    
