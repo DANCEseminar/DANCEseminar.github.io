@@ -3,6 +3,8 @@ layout: schedule
 title: "Schedule"
 ---
 
+The following is a running list of previous talks.   
+
 **Speaker:** [Andrew Hanlon](https://sites.google.com/view/ahanlon-math/home)    
 **Date:** 10 February 2025, 4pm CET   
 **Title:** *Birational King's conjecture*   
