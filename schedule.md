@@ -5,7 +5,16 @@ title: "Schedule"
 
 The following is our current schedule, but see [here](https://danceseminar.github.io/pastschedule) for previous talks.   
 
-**Speaker:** []()      
+**Speaker:** [Sebastian Opper](https://sites.google.com/view/sebastianopper)           
+**Date:** 20 October 2025, 4pm CET    
+**Title:** **   
+<!-- [slides](./slides/) | [video]()  -->
+<details>
+ <summary>Abstract </summary>
+</details>
+
+---
+**Speaker:** [Calum Crossley](https://calumcrossley.github.io/)          
 **Date:** 3 November 2025, 4pm CET    
 **Title:** **   
 <!-- [slides](./slides/) | [video]()  -->
@@ -14,7 +23,7 @@ The following is our current schedule, but see [here](https://danceseminar.githu
 </details>
 
 ---
-**Speaker:** []()    
+**Speaker:** TBA    
 **Date:** 17 November 2025, 4pm CET   
 **Title:** **   
 <!-- [slides](./slides/) | [video]()  -->
@@ -23,8 +32,8 @@ The following is our current schedule, but see [here](https://danceseminar.githu
 </details>
 
 ---
-**Speaker:** []()    
-**Date:** 1 December 2025, 4pm CET   
+**Speaker:** [Prashanth Sridhar](https://sites.google.com/view/prashanthsridhar/home)   
+**Date:** 1 December 2025, 6pm CET (*note the time difference*)   
 **Title:** **   
 <!-- [slides](./slides/) | [video]()  -->
 <details>
@@ -32,7 +41,7 @@ The following is our current schedule, but see [here](https://danceseminar.githu
 </details>
 
 ---
-**Speaker:** []()    
+**Speaker:** [Aporva Varshney](https://avarsh.github.io/)    
 **Date:** 15 December 2025, 4pm CET   
 **Title:** **   
 <!-- [slides](./slides/) | [video]()  -->
