@@ -23,7 +23,7 @@ The following is our current schedule, but see [here](https://danceseminar.githu
 </details>
 
 ---
-**Speaker:** TBA    
+**Speaker:** [Céline Fietz](https://www.universiteitleiden.nl/en/staffmembers/celine-fietz#tab-1)    
 **Date:** 17 November 2025, 4pm CET   
 **Title:** **   
 <!-- [slides](./slides/) | [video]()  -->
@@ -33,7 +33,7 @@ The following is our current schedule, but see [here](https://danceseminar.githu
 
 ---
 **Speaker:** [Prashanth Sridhar](https://sites.google.com/view/prashanthsridhar/home)   
-**Date:** 1 December 2025, 6pm CET (*note the time difference*)   
+**Date:** 8 December 2025, 4pm CET    
 **Title:** **   
 <!-- [slides](./slides/) | [video]()  -->
 <details>
