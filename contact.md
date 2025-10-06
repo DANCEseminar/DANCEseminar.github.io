@@ -12,4 +12,4 @@ Organizers:
 - [Pat Lank](https://patlank.com/),
   email: plankmathematics 'at' gmail 'dot' com
 - [Kabeer Manali Rahul](https://kabeermr.github.io/),
-  email: kabeer 'dot' manalirahul 'at' anu 'dot' edu 'dot' au
+  email: kabeermr 'dot' maths 'at' gmail 'dot' com
