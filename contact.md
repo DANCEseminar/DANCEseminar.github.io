@@ -9,7 +9,7 @@ Organizers:
   email: anirbanbhaduri1905 'at' gmail 'dot' com
 - [Timothy De Deyn](https://tdedeyn.github.io/),
   email: timothy.dedeyn 'at' glasgow 'dot' ac 'dot' uk
-- [Pat Lank](https://patlank.com/),
+- [Pat Lank](https://lankp.github.io),
   email: plankmathematics 'at' gmail 'dot' com
 - [Kabeer Manali Rahul](https://kabeermr.github.io/),
   email: kabeermr 'dot' maths 'at' gmail 'dot' com
