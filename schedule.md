@@ -18,7 +18,7 @@ The following is our current schedule, but see [here](https://danceseminar.githu
 **Speaker:** [Calum Crossley](https://calumcrossley.github.io/)          
 **Date:** 3 November 2025, 4pm CET    
 **Title:** Categorical resolutions from geometry     
-<!-- [slides](./slides/) | [video]()  -->
+[slides](./slides/Crossley.pdf) | [video](https://youtu.be/RPTsYgbIQxc) 
 <details>
  <summary>Abstract </summary>
 This will be a survey on categorical resolutions, in the context of conjectures relating derived categories to birational geometry. Examples using matrix factorizations give a geometric perspective, shedding light on various aspects of these resolutions: crepancy and minimality, null categories, and relations to singular equivalences.
