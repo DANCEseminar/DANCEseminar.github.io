@@ -43,10 +43,20 @@ quadric and induce autoequivalences on the categorical resolution.
 ---
 **Speaker:** [Prashanth Sridhar](https://sites.google.com/view/prashanthsridhar/home)   
 **Date:** 8 December 2025, 4pm CET    
-**Title:**       
+**Title:** Differential Graded Noncommutative Geometry    
 <!-- [slides](./slides/) | [video]()  -->
 <details>
  <summary>Abstract </summary>
+ Pioneering work of Artin-Tate-Van den Bergh-Zhang extends
+important aspects of projective geometry to the noncommutative (nc)
+setting. In particular, the derived category of such a nc scheme
+shares many features with the derived category of a classical one. In
+this talk, I'll discuss extensions of some classical and modern
+results in the theory of nc projective geometry to nc spaces
+associated to dg-algebras. The focus will be on applications to
+projective varieties: for instance, this approach results in an analog
+of a landmark theorem of Orlov concerning the derived category of a
+complete intersection for any projective variety.
 </details>
 
 ---
