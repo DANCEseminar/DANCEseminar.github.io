@@ -44,7 +44,7 @@ quadric and induce autoequivalences on the categorical resolution.
 **Speaker:** [Prashanth Sridhar](https://sites.google.com/view/prashanthsridhar/home)   
 **Date:** 8 December 2025, 4pm CET    
 **Title:** Differential Graded Noncommutative Geometry    
-[slides](./slides/Sridhar)       
+[slides](./slides/Sridhar.pdf)       
 <details>
  <summary>Abstract </summary>
  Pioneering work of Artin-Tate-Van den Bergh-Zhang extends
