@@ -44,7 +44,7 @@ quadric and induce autoequivalences on the categorical resolution.
 **Speaker:** [Prashanth Sridhar](https://sites.google.com/view/prashanthsridhar/home)   
 **Date:** 8 December 2025, 4pm CET    
 **Title:** Differential Graded Noncommutative Geometry    
-<!-- [slides](./slides/) | [video]()  -->
+[slides](./slides/Sridhar)       
 <details>
  <summary>Abstract </summary>
  Pioneering work of Artin-Tate-Van den Bergh-Zhang extends
@@ -62,10 +62,11 @@ complete intersection for any projective variety.
 ---
 **Speaker:** [Aporva Varshney](https://avarsh.github.io/)    
 **Date:** 15 December 2025, 4pm CET   
-**Title:**       
+**Title:** Stringy Kähler moduli of flops using GIT     
 <!-- [slides](./slides/) | [video]()  -->
 <details>
  <summary>Abstract </summary>
+According to predictions coming from physicists and mirror symmetry, the fundamental group of the "stringy Kahler moduli space" of a variety acts on the derived category by autoequivalences. However, it is unclear how to compute or even define this space in full generality. I will discuss two approaches given in the literature, one using Bridgeland stability manifolds and the other based in GIT and window subcategories. We will see that these two approaches agree for single curve threefold flops of lengths one and two. This is based on work in arxiv:2508.05285.
 </details>
 
 ---
