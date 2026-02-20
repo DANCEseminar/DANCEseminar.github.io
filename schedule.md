@@ -46,6 +46,16 @@ The following is our current schedule, but see [here](https://danceseminar.githu
 </details>
 
 ---
+**Speaker:** [Giovanna Le Gros](https://scholar.google.com/citations?user=snSiPzgAAAAJ&hl=en)    
+**Date:** 4 May 2026, 4pm CEST    
+**Title:** *TBA*    
+<!-- [slides](./slides/~.pdf/) | [video]() -->
+<details>
+ <summary>Abstract </summary>
+    TBA
+</details>
+
+---
 **Speaker:** [Lukas Bertsch](https://homepage.univie.ac.at/lukas.bertsch/)    
 **Date:** 11 May 2026, 4pm CEST    
 **Title:** *TBA*    
