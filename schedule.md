@@ -12,7 +12,7 @@ The following is our current schedule, but see [here](https://danceseminar.githu
 <!-- [slides](./slides/~.pdf/) | [video]() -->
 <details>
  <summary>Abstract </summary>
-    TBA
+    Considering short exact sequences of enhanced triangulated categories naturally leads to the notion of algebraic K-theory. Although recent years have seen substantial progress in the area, there are still few complete computations of (higher) K-theory of singular varieties: in positive characteristic there are essentially none in dimension >1 in the literature, and the situation in characteristic 0 is not much better. In this talk, I will show how recent developments in algebraic K-theory can be used to understand the K-theory of singular varieties, focusing on cubic surfaces and threefolds, where complete computations can be obtained in many cases.
 </details>  
 
 ---
