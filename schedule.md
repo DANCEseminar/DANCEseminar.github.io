@@ -8,7 +8,7 @@ The following is our current schedule, but see [here](https://danceseminar.githu
 ---
 **Speaker:** Andrei Konovalov     
 **Date:** 16 March 2026, 4pm CET    
-**Title:** *TBA*      
+**Title:** *Algebraic K-theory of singular hypersurfaces*      
 <!-- [slides](./slides/~.pdf/) | [video]() -->
 <details>
  <summary>Abstract </summary>
