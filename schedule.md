@@ -18,11 +18,11 @@ The following is our current schedule, but see [here](https://danceseminar.githu
 ---
 **Speaker:** [Amal Mattoo](https://www.math.columbia.edu/~amattoo/)    
 **Date:** 30 March 2026, 4pm CEST    
-**Title:** *TBA*    
+**Title:** *Phantoms on Rational Surfaces*    
 <!-- [slides](./slides/~.pdf/) | [video]() -->
 <details>
  <summary>Abstract </summary>
-    TBA
+    Phantom categories, or admissible subcategories on which all additive invariants vanish, were once considered pathological phenomena unlikely to occur on simple enough varieties. So when Krah constructed a phantom on a blowup of $\mathbf{P}^{2}$, it came as a surprise and disproved several conjectures! Since then, there has been work on extending this construction to other rational surfaces. In this talk, I will explain these constructions and how they are proved using Kuznetsov's machinery of heights. I will also describe some tools used to study these phantoms, like Hochschild cohomology and a spectral sequence for computing Hom's between objects.
 </details>
 
 ---
