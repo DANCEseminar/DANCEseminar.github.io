@@ -9,7 +9,7 @@ The following is our current schedule, but see [here](https://danceseminar.githu
 **Speaker:** Andrei Konovalov     
 **Date:** 16 March 2026, 4pm CET    
 **Title:** *Algebraic K-theory of singular hypersurfaces*      
-<!-- [slides](./slides/~.pdf/) | [video]() -->
+<!-- [slides](./slides/~.pdf/) | -->[video](https://youtu.be/fULKtjgd4i4)
 <details>
  <summary>Abstract </summary>
     Considering short exact sequences of enhanced triangulated categories naturally leads to the notion of algebraic K-theory. Although recent years have seen substantial progress in the area, there are still few complete computations of (higher) K-theory of singular varieties: in positive characteristic there are essentially none in dimension >1 in the literature, and the situation in characteristic 0 is not much better. In this talk, I will show how recent developments in algebraic K-theory can be used to understand the K-theory of singular varieties, focusing on cubic surfaces and threefolds, where complete computations can be obtained in many cases.
@@ -28,11 +28,13 @@ The following is our current schedule, but see [here](https://danceseminar.githu
 ---
 **Speaker:** [Dave Murphy](https://sites.google.com/view/dave-murphy/)    
 **Date:** 13 April 2026, 4pm CEST    
-**Title:** *TBA*    
+**Title:** *Piano Algebras and Dissections of Marked Surfaces*    
 <!-- [slides](./slides/~.pdf/) | [video]() -->
 <details>
  <summary>Abstract </summary>
-    TBA
+    Paquette and Yıldırım constructed a triangulated (cluster) category that is modelled by a combinatorial completion of a discrete infinity-gon with finitely many so-called accumulation points, building upon cluster categories introduced by Igusa and Todorov as the stable Frobenius category of matrix factorisations over a cyclic poset. It turns out that in the case of a single accumulation point, the Paquette--Yıldırım category is triangle equivalent to the perfect derived category of k[x], seen as a dga with trivial differential and x placed in degree -1.
+    This leads us to ask, for any given number of accumulation points, can we construct a dga A such that the perfect derived category of A is triangle equivalent to the Paquette-Yıldırım category? In this talk we shall show how to construct these algebras using methods introduced to study gentle algebras, and show how our methods are far more general and may lead to triangulated categories modelled by arbitrary surfaces with infinitely many marked points on each boundary component.
+    This talk is based on joint work with Marina Godinho.
 </details>
 
 ---
