@@ -40,11 +40,11 @@ The following is our current schedule, but see [here](https://danceseminar.githu
 ---
 **Speaker:** Gopinath Sahoo    
 **Date:** 27 April 2026, 4pm CEST    
-**Title:** *TBA*    
+**Title:** *Tensor t-structures and perversity functions*    
 <!-- [slides](./slides/~.pdf/) | [video]() -->
 <details>
  <summary>Abstract </summary>
-    TBA
+    For a Noetherian scheme X admitting a dualizing complex, Bezrukavnikov-Deligne and independently Gabber and Kashiwara showed that any monotone comonotone perversity function on X gives rise to a t-structure on the bounded derived category of X. In a recent preprint (arXiv:2412.18009), we introduced the notion of tensor t-structures via the action of perfect complexes on the bounded derived category, and proved that these coincide exactly with those coming from perversity functions. This work builds on our earlier results on t-structures for unbounded derived categories of Noetherian schemes. In this talk, I will explain how these results are related and briefly review their history.
 </details>
 
 ---
