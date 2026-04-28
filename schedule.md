@@ -41,7 +41,7 @@ The following is our current schedule, but see [here](https://danceseminar.githu
 **Speaker:** Gopinath Sahoo    
 **Date:** 27 April 2026, 4pm CEST    
 **Title:** *Tensor t-structures and perversity functions*    
-<!-- [slides](./slides/~.pdf/) | [video]() -->
+<!-- [slides](./slides/~.pdf/) | -->[video](https://youtu.be/6u3lT6xLXDU)
 <details>
  <summary>Abstract </summary>
     For a Noetherian scheme X admitting a dualizing complex, Bezrukavnikov-Deligne and independently Gabber and Kashiwara showed that any monotone comonotone perversity function on X gives rise to a t-structure on the bounded derived category of X. In a recent preprint (arXiv:2412.18009), we introduced the notion of tensor t-structures via the action of perfect complexes on the bounded derived category, and proved that these coincide exactly with those coming from perversity functions. This work builds on our earlier results on t-structures for unbounded derived categories of Noetherian schemes. In this talk, I will explain how these results are related and briefly review their history.
@@ -50,11 +50,11 @@ The following is our current schedule, but see [here](https://danceseminar.githu
 ---
 **Speaker:** [Giovanna Le Gros](https://scholar.google.com/citations?user=snSiPzgAAAAJ&hl=en)    
 **Date:** 4 May 2026, 4pm CEST    
-**Title:** *TBA*    
+**Title:** *Semi-Bousfield classes in the derived category of a commutative noetherian ring*    
 <!-- [slides](./slides/~.pdf/) | [video]() -->
 <details>
  <summary>Abstract </summary>
-    TBA
+    For a rigidly-compactly generated triangulated category with a fixed t-structure, we introduce semi-Bousfield classes. Examples of semi-Bousfield classes include both Bousfield classes and coaisles of compactly generated tensor t-structures. We will mainly consider the case of the unbounded derived category of a commutative noetherian ring with the standard t-structure. In this case, we can describe the semi-Bousfield classes which come from perversities, which are integer valued functions on the prime spectrum of the ring. Moreover, this assignment is compatible with the classification of compactly generated t-structures by sp-filtrations due to Alonso-Jeremías-Saorín, and localising subcategories by subsets of the spectrum due to Neeman. This is based on joint work with Dolors Herbera and Michal Hrbek.
 </details>
 
 ---
