@@ -61,7 +61,7 @@ The following is our current schedule, but see [here](https://danceseminar.githu
 **Speaker:** [Lukas Bertsch](https://homepage.univie.ac.at/lukas.bertsch/)    
 **Date:** 11 May 2026, 4pm CEST    
 **Title:** *Noncommutative resolutions of Kleinian singularities*    
-[slides](./slides/~.pdf/Bertsch.pdf) | [video](https://youtu.be/mNY60o3Q5XM)
+[slides](./slides/Bertsch.pdf) | [video](https://youtu.be/mNY60o3Q5XM)
 <details>
  <summary>Abstract </summary>
     The McKay correspondence establishes a derived equivalence between the classical minimal resolution and a noncommutative crepant resolution of a Kleinian surface singularity. Based on joint work with Ruth Wye, I will explain how the McKay correspondence extends to a larger class of noncommutative crepant resolutions of the singularity, and how their Hilbert schemes of points are related through variation of GIT quotients (VGIT). Time permitting, I will also sketch some recent ideas from work in progress with Austin Hubbard on how to relate the resolutions themselves via VGIT by taking into account the variation of monoidal structures on their mutual derived category.
