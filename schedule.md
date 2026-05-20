@@ -70,11 +70,11 @@ The following is our current schedule, but see [here](https://danceseminar.githu
 ---
 **Speaker:** [Daigo Ito](https://daigoi.github.io/)    
 **Date:** 25 May 2026, 4pm CEST    
-**Title:** *TBA*    
+**Title:** *Tensor-generation on toric varieties*    
 <!-- [slides](./slides/~.pdf/) | [video]() -->
 <details>
  <summary>Abstract </summary>
-    TBA
+    In the study of derived categories of coherent sheaves, ample line bundles play a fundamental role: their tensor powers generate the derived category. We call a line bundle with this property tensor-generating. For toric varieties, tensor-generation admits a purely combinatorial criterion, and there exist many tensor-generating line bundles that are neither ample nor anti-ample, including examples on complete non-projective toric varieties. In this talk, I will further explore the relationship between tensor-generation and nonstandard autoequivalences of the derived category. This is joint work in progress with Michael Zeng and Xiangru Zeng.
 </details>
 
 ---
