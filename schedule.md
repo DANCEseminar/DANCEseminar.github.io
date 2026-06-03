@@ -71,7 +71,7 @@ The following is our current schedule, but see [here](https://danceseminar.githu
 **Speaker:** [Daigo Ito](https://daigoi.github.io/)    
 **Date:** 25 May 2026, 4pm CEST    
 **Title:** *Tensor-generation on toric varieties*    
-<!-- [slides](./slides/~.pdf/) | [video]() -->
+[slides](./slides/Ito.pdf/) | [video](https://youtu.be/K8BpilU8Eno)
 <details>
  <summary>Abstract </summary>
     In the study of derived categories of coherent sheaves, ample line bundles play a fundamental role: their tensor powers generate the derived category. We call a line bundle with this property tensor-generating. For toric varieties, tensor-generation admits a purely combinatorial criterion, and there exist many tensor-generating line bundles that are neither ample nor anti-ample, including examples on complete non-projective toric varieties. In this talk, I will further explore the relationship between tensor-generation and nonstandard autoequivalences of the derived category. This is joint work in progress with Michael Zeng and Xiangru Zeng.
@@ -86,4 +86,3 @@ The following is our current schedule, but see [here](https://danceseminar.githu
  <summary>Abstract </summary>
     In this talk, I will discuss recent results on generation and compact approximation in derived categories of quasi-coherent sheaves on algebraic stacks. I will explain how Lipman–Neeman-type approximation methods can be extended to the stacky setting using descent techniques. Time permitting, I will mention applications and related questions concerning the Rouquier dimension. This is based on joint work with Jack Hall, Alicia Lamarche, and Pat Lank.
 </details>
-
