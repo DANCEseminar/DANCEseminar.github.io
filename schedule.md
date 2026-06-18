@@ -81,7 +81,7 @@ The following is our current schedule, but see [here](https://danceseminar.githu
 **Speaker:** [Fei Peng](https://sites.google.com/view/feipeng/home/)    
 **Date:** 8 June 2026, 4pm CEST    
 **Title:** *Generation and approximation in derived categories of algebraic stacks*    
-<!-- [slides](./slides/~.pdf/) | [video]() -->
+[slides](./slides/Peng.pdf/)
 <details>
  <summary>Abstract </summary>
     In this talk, I will discuss recent results on generation and compact approximation in derived categories of quasi-coherent sheaves on algebraic stacks. I will explain how Lipman–Neeman-type approximation methods can be extended to the stacky setting using descent techniques. Time permitting, I will mention applications and related questions concerning the Rouquier dimension. This is based on joint work with Jack Hall, Alicia Lamarche, and Pat Lank.
